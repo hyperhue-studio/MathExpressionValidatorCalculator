@@ -1,0 +1,15 @@
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\bin\Debug\net8.0\MathExpressionValidatorCalculator.exe
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\bin\Debug\net8.0\MathExpressionValidatorCalculator.deps.json
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\bin\Debug\net8.0\MathExpressionValidatorCalculator.runtimeconfig.json
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\bin\Debug\net8.0\MathExpressionValidatorCalculator.dll
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\bin\Debug\net8.0\MathExpressionValidatorCalculator.pdb
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\MathExpressionValidatorCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\MathExpressionValidatorCalculator.AssemblyInfoInputs.cache
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\MathExpressionValidatorCalculator.AssemblyInfo.cs
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\MathExpressionValidatorCalculator.csproj.CoreCompileInputs.cache
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\MathExpressionValidatorCalculator.sourcelink.json
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\MathExpressionValidatorCalculator.dll
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\refint\MathExpressionValidatorCalculator.dll
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\MathExpressionValidatorCalculator.pdb
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\MathExpressionValidatorCalculator.genruntimeconfig.cache
+D:\Educacion\Palmore\Coding\CalculadoraConRegex\P4\MathExpressionValidatorCalculator\obj\Debug\net8.0\ref\MathExpressionValidatorCalculator.dll
